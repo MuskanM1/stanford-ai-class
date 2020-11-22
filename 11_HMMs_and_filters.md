@@ -99,8 +99,8 @@ a 0.8 chance of it remaining sunny and a 0.2 chance it becomes rainy if sunny.
 
 This is clearly temporal. So let's assume at time 0:-
 
-    [; P(R_0) = 1 ;]
-    [; P(S_0) = 0 ;]
+   $ [; P(R_0) = 1 ;] $ 
+   $ [; P(S_0) = 0 ;] $
 
 The diagram gives us:-
 
