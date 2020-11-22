@@ -118,7 +118,7 @@ By the theorem of total probability we have:-
 
 So:-
 
-    [; P(R_{i+1}) = 0.6P(R_i) + 0.2P(S_i) ;]
+    ![; P(R_{i+1}) = 0.6P(R_i) + 0.2P(S_i) ;](https://latex.codecogs.com/svg.latex?x%3D%5Cfrac%7B-b%5Cpm%5Csqrt%7Bb%5E2-4ac%7D%7D%7B2a%7D)
     [; P(S_{i+1}) = 0.4P(R_i) + 0.8P(S_i) ;]
 
 
