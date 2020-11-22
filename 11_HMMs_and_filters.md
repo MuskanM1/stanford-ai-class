@@ -99,14 +99,14 @@ a 0.8 chance of it remaining sunny and a 0.2 chance it becomes rainy if sunny.
 
 This is clearly temporal. So let's assume at time 0:-
 
-    [; $ P(R_0) = 1 $ ;]  
+    [; $P(R_0) = 1$ ;]  
     \begin{equation}
         [; P(S_0) = 0 $ ;]
     \end{equation}  
 
 The diagram gives us:-
 
-    [; P(R_{i+1}|R_i) = 0.6 ;]
+    [; $P(R_{i+1}|R_i) = 0.6$ ;]
     [; P(S_{i+1}|R_i) = 0.4 ;]
     [; P(R_{i+1}|S_i) = 0.2 ;]
     [; P(S_{i+1}|S_i) = 0.8 ;]
