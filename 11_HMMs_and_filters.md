@@ -75,7 +75,7 @@ than others, and by doing this over + over again it is able to build a coherent 
 
 One final example on speech recognition:-
 
-<img src="http://codegrunt.co.uk/images/ai/11-localisation-problem-examples-1.png" />
+<img src="./images/ai/11-localisation-problem-examples-1.png" />
 
 If you have a microphone which records speech and have your computer recognise speech you will
 likely come across Markov models.
